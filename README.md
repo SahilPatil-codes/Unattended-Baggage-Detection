@@ -19,6 +19,19 @@ A real-time surveillance system leveraging **YOLOv5** and **CNNs** to detect una
 Immediately report confirmed threats to airport authorities using designated protocols.
 
 ---
+## 🌟 Introduction
+
+Unattended baggage in high-security zones like airports poses significant risks to passenger safety and operational efficiency. Traditional surveillance systems rely heavily on human operators, leading to potential delays and oversight. This project addresses these challenges by leveraging **AI-powered surveillance** to automate threat detection using cutting-edge computer vision and deep learning techniques.
+
+The system integrates with existing CCTV infrastructure to:
+- Detect unattended bags in real-time using YOLO (You Only Look Once) and CNNs.
+- Trigger alerts if a bag remains unattended for over 5 minutes.
+- Monitor crowded areas for suspicious activity (e.g., weapons, explosives).
+- Reduce false positives through advanced motion tracking and time-based analysis.
+
+Developed in collaboration with the **Airport Authority of India (AAI)**, this solution enhances security response times and minimizes reliance on manual monitoring.
+
+---
 
 ## 🏆 Key Features
 - **Real-Time Detection**  
