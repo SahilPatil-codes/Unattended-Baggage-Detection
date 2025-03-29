@@ -2,8 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI/CD](https://github.com/yourusername/Unattended-Baggage-Detection/actions/workflows/main.yml/badge.svg)](https://github.com/yourusername/ai-baggage-detection/actions)
-[![Hugging Face](https://img.shields.io/badge/YOLOv5-Object%20Detection-red)](https://github.com/ultralytics/yolov5)
+[![Hugging Face](https://img.shields.io/badge/YOLOv10-Object%20Detection-red)](https://github.com/ultralytics/yolov5)
 
 A real-time surveillance system leveraging **YOLOv5** and **CNNs** to detect unattended baggage in high-security environments like airports. Developed in collaboration with the **Airport Authority of India (AAI)**.
 
