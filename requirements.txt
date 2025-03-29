@@ -1,0 +1,10 @@
+opencv-python
+numpy
+ultralytics
+pyttsx3
+torch
+torchvision
+PyQt6
+PyQt6-Qt6
+PyQt6-sip
+pyinstaller
