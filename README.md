@@ -52,7 +52,7 @@ Developed in collaboration with the **Airport Authority of India (AAI)**, this s
 ## 🧰 Technologies Used
 | Category              | Tools/Frameworks                          |
 |-----------------------|-------------------------------------------|
-| **AI/ML**             | YOLOv5, TensorFlow, OpenCV, Scikit-learn  |
+| **AI/ML**             | YOLOv10, TensorFlow, OpenCV, Scikit-learn  |
 | **Backend**           | FastAPI, Redis, PostgreSQL, RabbitMQ     |
 | **DevOps**            | Docker, Kubernetes, GitHub Actions       |
 | **Monitoring**        | Grafana, Prometheus, Elastic Stack       |
